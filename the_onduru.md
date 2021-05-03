@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>This is a title</title>
-  </head>
   <body>
     <h1>Data Analyst | Front-End Web Developer </h1>
     <h3>Hi, there 🙋🏽‍♂️!</h3>
